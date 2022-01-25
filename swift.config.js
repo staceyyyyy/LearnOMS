@@ -4,9 +4,9 @@
 
 const HOST = {
     local: 'http://localhost:3000',
-    dev: 'https://pwa-oms-lite.testingnow.me',
-    stage: 'https://pwa-oms-lite.testingnow.me',
-    prod: 'https://pwa-oms-lite.testingnow.me',
+    dev: 'http://localhost:3000',
+    stage: 'http://localhost:3000',
+    prod: 'http://localhost:3000',
 };
 
 /* Magento GraphQL Endpoint */
